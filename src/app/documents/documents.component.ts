@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Document } from './documents';
+import { Document } from './document';
 
 @Component({
   selector: 'documents',
