@@ -15,21 +15,21 @@ export class DocumentsComponent {
       description: "adklfdfjlkdfj,fkldjflkdjf",
       file_url: "http://google.com",
       updated_at: '1/9/2017',
-      image_url: 'http://google.com',
+      image_url: 'http://www.artshine.com.au/wp-content/uploads/2017/08/3-Mistakes-That-Stop-Freelancers-From-Getting-Repeat-Business-artshine.com_.au_.png',
     },
     {
       title: "My Second Doc",
       description: "adklfdfjlkdfj,fkldjflkdjf",
       file_url: "http://google.com",
       updated_at: '1/9/2017',
-      image_url: 'http://google.com',
+      image_url: 'http://www.artshine.com.au/wp-content/uploads/2017/08/3-Mistakes-That-Stop-Freelancers-From-Getting-Repeat-Business-artshine.com_.au_.png',
     },
     {
       title: "My Last Doc",
       description: "adklfdfjlkdfj,fkldjflkdjf",
       file_url: "http://google.com",
       updated_at: '1/9/2017',
-      image_url: 'http://google.com',
+      image_url: 'http://www.artshine.com.au/wp-content/uploads/2017/08/3-Mistakes-That-Stop-Freelancers-From-Getting-Repeat-Business-artshine.com_.au_.png',
     },
   ]
 }
